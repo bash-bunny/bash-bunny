@@ -3,7 +3,7 @@
 └─$ cat README.md
 ```
 
-# 👾 Bash Bunny
+# Bash Bunny
 
 **Cybersecurity Specialist | Pentester | Red Team Operator**
 
@@ -11,13 +11,13 @@ Offensive security operations, threat intelligence, and dark web research. Focus
 
 ---
 
-### 🎯 Expertise
+### Expertise
 
 `Pentesting` • `Red Team` • `OSINT` • `Threat Intel` • `Dark Web Research` • `Network Security` • `Linux Systems` • `Python/Bash`
 
 ---
 
-### 💻 Active Projects
+### Active Projects
 
 **→ Dark Web Crawler**
 Custom Bash-based OSINT crawler integrating Shodan/Censys APIs for intelligence gathering
@@ -33,7 +33,7 @@ Automated reconnaissance and exploitation suite for security assessments
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** Python • Bash • C • JavaScript
 **Security:** Metasploit • Burp Suite • Nmap • Wireshark • Tor
@@ -42,7 +42,7 @@ Automated reconnaissance and exploitation suite for security assessments
 
 ---
 
-### 🎤 Talks
+### Talks
 
 - **[2025]** Building Your Own Dark Web Crawler for OSINT Operations
 - **[2025]** Dark Web Intelligence: Research Methodologies
@@ -50,7 +50,7 @@ Automated reconnaissance and exploitation suite for security assessments
 
 ---
 
-### 📡 Connect
+### Connect
 
 **Professional:** [github.com/paranoidsec](https://github.com/paranoidsec)  
 **X/Twitter:** [@_BashBunny_](https://x.com/_BashBunny_) • [@ParanoidS3c](https://x.com/ParanoidS3c)  
