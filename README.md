@@ -1,72 +1,48 @@
-```ascii
+```
 ┌──(bash-bunny㉿paranoidsec)-[~]
-└─$ whoami
+└─$ cat README.md
 ```
 
-# Bash Bunny
+# 👾 Bash Bunny
 
-```bash
-> Cybersecurity Specialist | Pentester | Red Team Operator
-> cat /etc/security/specialties.txt
-```
+**Cybersecurity Specialist | Pentester | Red Team Operator**
 
-## 🎯 Core Competencies
+Offensive security operations, threat intelligence, and dark web research. Focused on penetration testing, red team operations, OSINT investigations, and network security.
 
-```
-[+] Penetration Testing      [+] Red Team Operations
-[+] OSINT & Threat Intel     [+] Dark Web Research
-[+] Network Security         [+] Linux Systems
-[+] Python & Bash Scripting  [+] Security Research
-```
+---
 
-## 💻 Current Operations
+### 🎯 Expertise
 
-```bash
-bash-bunny@paranoidsec:~$ ls -la ~/projects/
-```
+`Pentesting` • `Red Team` • `OSINT` • `Threat Intel` • `Dark Web Research` • `Network Security` • `Linux Systems` • `Python/Bash`
 
-- **Dark Web Crawler** - Custom Bash-based OSINT crawler integrating Shodan/Censys APIs
-- **NixOS Pentesting Environment** - Declarative, reproducible security testing platform
-- **OSINT Framework** - Comprehensive intelligence gathering toolkit
-- **Security Toolchain** - Automated reconnaissance and exploitation suite
+---
 
-## 🛠️ Arsenal
+### 💻 Active Projects
 
-```python
-tools = {
-    'languages': ['Python', 'Bash', 'C', 'JavaScript'],
-    'security': ['Metasploit', 'Burp Suite', 'Nmap', 'Wireshark', 'Tor'],
-    'osint': ['Shodan', 'Censys', 'Maltego', 'theHarvester'],
-    'systems': ['Kali', 'Parrot OS', 'Arch', 'NixOS', 'OpenBSD'],
-    'platforms': ['Linux', 'Docker', 'QEMU/KVM', 'AWS']
-}
-```
+**→ Dark Web Crawler**
+Custom Bash-based OSINT crawler integrating Shodan/Censys APIs for intelligence gathering
 
-## 📡 Connect
+**→ NixOS Pentesting Environment**
+Declarative, reproducible security testing platform optimized for red team operations
 
-```bash
-bash-bunny@paranoidsec:~$ cat social.txt
-```
+**→ OSINT Framework**
+Comprehensive intelligence gathering toolkit combining multiple data sources
 
-- 🔗 Professional: [github.com/paranoidsec](https://github.com/paranoidsec)
-- 🐦 X/Twitter: [@_BashBunny_](https://x.com/_BashBunny_) | [@ParanoidS3c](https://x.com/ParanoidS3c)
-- 📧 Email: paranoidsec@disroot.org
+**→ Security Toolchain**
+Automated reconnaissance and exploitation suite for security assessments
 
-## 📊 GitHub Stats
+---
 
-```bash
-bash-bunny@paranoidsec:~$ git log --stat
-```
+### 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bash-bunny&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=b967ff&icon_color=05ffa1&text_color=c8c8d0)
+**Languages:** Python • Bash • C • JavaScript
+**Security:** Metasploit • Burp Suite • Nmap • Wireshark • Tor
+**OSINT:** Shodan • Censys • Maltego • theHarvester
+**Systems:** Kali • Gentoo • Arch • NixOS • OpenBSD
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bash-bunny&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=b967ff&text_color=c8c8d0)
+---
 
-## 🎤 Recent Talks
-
-```bash
-bash-bunny@paranoidsec:~$ tail -n 3 talks.log
-```
+### 🎤 Talks
 
 - **[2025]** Building Your Own Dark Web Crawler for OSINT Operations
 - **[2025]** Dark Web Intelligence: Research Methodologies
@@ -74,13 +50,20 @@ bash-bunny@paranoidsec:~$ tail -n 3 talks.log
 
 ---
 
-```bash
-bash-bunny@paranoidsec:~$ echo "Available for security consulting, pentesting, and conference speaking"
-> Available for security consulting, pentesting, and conference speaking
+### 📡 Connect
 
-bash-bunny@paranoidsec:~$ exit
+**Professional:** [github.com/paranoidsec](https://github.com/paranoidsec)  
+**X/Twitter:** [@_BashBunny_](https://x.com/_BashBunny_) • [@ParanoidS3c](https://x.com/ParanoidS3c)  
+**Email:** paranoidsec@disroot.org
+
+```
+┌──(bash-bunny㉿paranoidsec)-[~]
+└─$ exit
+
 [Connection terminated]
 ```
+
+> *Available for security consulting, pentesting engagements, training and conference speaking*
 
 <!--
 Encrypted message: U2VjdXJpdHkgaXMgYW4gaWxsdXNpb24uIEFsbCBzeXN0ZW1zIGNhbiBiZSBwZW5ldHJhdGVkLg==
