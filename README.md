@@ -48,6 +48,7 @@ Automated reconnaissance and exploitation suite for security assessments
 ### Talks
 
 - **[2025]** Building Your Own Dark Web Crawler for OSINT Operations
+- **[2025]** De-anonimizing Dark Web Domains
 - **[2025]** Dark Web Intelligence: Research Methodologies
 - **[2026]** NixOS for Offensive Security: Reproducible Environments
 
