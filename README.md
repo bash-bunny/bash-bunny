@@ -36,8 +36,11 @@ Automated reconnaissance and exploitation suite for security assessments
 ### Tech Stack
 
 **Languages:** Python • Bash • C • JavaScript
+
 **Security:** Metasploit • Burp Suite • Nmap • Wireshark • Tor
+
 **OSINT:** Shodan • Censys • Maltego • theHarvester
+
 **Systems:** Kali • Gentoo • Arch • NixOS • OpenBSD
 
 ---
